@@ -1,5 +1,0 @@
-
-(Wagner,2,32),
-(Montgomery,35,64),
-(Wolfe,37,21),
-(Higgins,59,93),
